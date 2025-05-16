@@ -5,3 +5,4 @@ terraform {
     region = "us-east-1"
   }
 }
+# Trigga o action (teste)
